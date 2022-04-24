@@ -14,7 +14,7 @@
 
 很高兴能将本书的中译本奉献给大家。由于译者水平有限，不当之处敬请读者批评指正。&#x20;
 
-本书的参考书目在World Wide Web网站 http://www. charlespetzold.am/code中。&#x20;
+本书的参考书目在World Wide Web网站 http://www.charlespetzold.am/code 中。&#x20;
 
 伍卫国、王宣政&#x20;
 
