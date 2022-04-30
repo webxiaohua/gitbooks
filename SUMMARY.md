@@ -9,3 +9,4 @@
 * [第6章 发报机与断电器](di-6-zhang-fa-bao-ji-yu-duan-dian-qi.md)
 * [第7章 十进制记数法](di-7-zhang-shi-jin-zhi-ji-shu-fa.md)
 * [第8章 其他进位制记数法](di-8-zhang-qi-ta-jin-wei-zhi-ji-shu-fa.md)
+* [第9章 二进制数](di-9-zhang-er-jin-zhi-shu.md)
