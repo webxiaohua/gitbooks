@@ -7,3 +7,4 @@
 * [第4章 手电筒剖析](di-4-zhang-shou-dian-tong-pou-xi.md)
 * [第5章 绕过拐弯的通信](di-5-zhang-rao-guo-guai-wan-de-tong-xin.md)
 * [第6章 发报机与断电器](di-6-zhang-fa-bao-ji-yu-duan-dian-qi.md)
+* [第7章 十进制记数法](di-7-zhang-shi-jin-zhi-ji-shu-fa.md)
